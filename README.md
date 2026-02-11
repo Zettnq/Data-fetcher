@@ -1,0 +1,1 @@
+A script for collecting data using ccxt, which allows you to bypass the limit of the number of candles per request 
